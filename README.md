@@ -41,8 +41,3 @@ To run the code, follow these steps:
 - Keras
 - NumPy
 - Matplotlib
-
-## Credits
-
-This project is developed by [Your Name] as a part of [Project/Study/Assignment Name].
-
